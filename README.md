@@ -1,0 +1,2 @@
+# autoexec
+CS:GO AutoExec 
